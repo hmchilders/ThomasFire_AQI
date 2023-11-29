@@ -1,7 +1,6 @@
 # Impact of the 2017 Thomas Fire
 
 Author: Heather Childers
-Github Repo: https://github.com/hmchilders/ThomasFire_AQI
 
 ## About this Notebook:
 The purpose of this exercise is to explore the impact of the 2017 Thomas fire on Santa Barbara County air quality and land cover. We'll analyze the impact on air quality by plotting the daily and 5-day rolling average values of the air quality index for 2017 and 2018 to compare the AQI during the Thomas fire to the usual AQI for the area. We'll explore the land cover change by using a false color image of Santa Barbara County and comparing it with the fire scar from the Thomas Fire.
